@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700;900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(130.02deg, #628E75 0.66%, #1A4855 83.32%);
+  background-attachment: fixed;
+}
+
+.cabecalho {
+  display: flex;
+  /* align-items: center; */
+  justify-content: space-between;
+  padding-top: 2.5625rem;
+  padding-bottom: 10rem;
+  padding-left: 165px;
+  padding-right: 186px;
+  
+}
+
+.conteudo {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding-bottom: 5px;
+    
+}
+
+.cabecalho-imagem {
+  height: 4.5rem;
+}
+
+.area-socialmidia {
+  display: flex;
+  gap: 2rem;  
+}
+
+.conteudo-principal {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: left;
+  flex: 0 0 30%;
+}
+
+.conteudo-principal-subtitulo {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  margin-bottom: 14px;
+  color:#F9F9F9;
+}
+
+.conteudo-principal-titulo {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 900;
+  font-size: 68px;
+  color:#F9F9F9;
+  line-height: 74.12px;
+  width: 95%;
+  margin-bottom: 25px;
+}
+
+.conteudo-principal-paragrafo {
+  font-family: 'Poppins', sans-serif;
+  color:#F9F9F9;
+  font-weight: 400;
+  font-size: 16px;
+  margin-bottom: 46px;
+  width: 70%;
+
+}
+
+.conteudo-principal-imagem {
+  height: 450px;
+}
+
+/* --- BUTTONS --- */
+.button-container {
+  display: flex;
+  align-items: center;
+}
+
+.btn {
+  display: flex;
+  align-items: center;
+  padding: .5rem 1rem;
+  height: 40px;
+  font-family: 'Poppins', sans-serif;
+  color: #F9F9F9;
+  background-color: transparent;
+  border: 1px solid #658E76;
+  transform: skew(-30deg);
+  cursor: pointer;
+}
+
+.btn span {
+  display: flex;
+  align-items: center;
+  transform: skew(30deg);
+}
+
+.btn span img {
+  margin-right: 10px;
+}
+
+.btn-primary {
+  background-color:#658E76;
+  margin-right: 10px;
+}
+
+.btn:hover {
+  background-color: #50725e;
+  border: 1px solid #658E76;
+  transition: background-color .9s ease-in-out;
+
+}
+
+
+
