@@ -15,7 +15,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 Desafio proporcionado pelo @iuricode para treinamento de habilidades com HTML5 e CSS3.
 
-<h5 align="center"><a href="#">ACESSE AQUI O PROJETO</a></h5>
+<h5 align="center"><a href="https://studio-ghibli-desafio5.vercel.app/">ACESSE AQUI O PROJETO</a></h5>
 
 ---
 
