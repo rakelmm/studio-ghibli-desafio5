@@ -4,6 +4,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  text-decoration: none;
 }
 
 body {
@@ -15,7 +16,7 @@ body {
 
 .cabecalho {
   display: flex;
-  /* align-items: center; */
+  align-items: center;
   justify-content: space-between;
   padding-top: 2.5625rem;
   padding-bottom: 10rem;
@@ -28,8 +29,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
-  padding-bottom: 5px;
-    
+  padding-bottom: 5px;   
 }
 
 .cabecalho-imagem {
@@ -74,7 +74,6 @@ body {
   font-size: 16px;
   margin-bottom: 46px;
   width: 70%;
-
 }
 
 .conteudo-principal-imagem {
@@ -113,6 +112,7 @@ body {
 .btn-primary {
   background-color:#658E76;
   margin-right: 10px;
+  
 }
 
 .btn:hover {
