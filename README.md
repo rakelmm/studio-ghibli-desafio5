@@ -20,7 +20,7 @@ O layout do projeto foi baseado no desafio 5 do @iuricode para treinamento de ha
 
 Você pode visualizar o layout do projeto original através [desse link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=5854%3A2) (o meu está modificado). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-<h5 align="center"><a href="https://studio-ghibli-desafio5.vercel.app/">ACESSE AQUI O PROJETO</a></h5>
+<h5 align="center"><a href="https://studio-ghibli-desafio5.vercel.app/">ACESSE AQUI O PROJETO FINAL</a></h5>
 
 ---
 
