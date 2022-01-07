@@ -78,6 +78,11 @@ body {
 
 .conteudo-principal-imagem {
   height: 450px;
+  transition: .3s;
+  display: inline-block;
+}
+.conteudo-principal-imagem:hover {
+  transform: translateY(-50px);
 }
 
 /* --- BUTTONS --- */
